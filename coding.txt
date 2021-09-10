@@ -7,3 +7,10 @@ this second comit ..
 ADD CODE#2
 this is 3rd comit..
 
+This is something we need to add in other branch
+
+
+Adding Few more features 
+donno whether its gonna work or nt...
+
+DONE MY CHANGES
